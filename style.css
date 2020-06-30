@@ -1,0 +1,176 @@
+body {
+  background-color: lightgray;
+  border: lightseagreen dotted;
+}
+
+p,
+footer {
+  font-family: "Piedra", cursive;
+  font-size: 22px;
+}
+
+h1 {
+  text-align: center;
+  color: palevioletred;
+  background-color: peachpuff;
+  padding: 20px;
+  font-family: "Indie Flower", cursive;
+}
+
+nav {
+  background-color: pink;
+  padding: 10px;
+  text-align: center;
+  margin: 0 auto;
+}
+
+a {
+  margin-right: 75px;
+  font-family: "Indie Flower", cursive;
+}
+
+h1:hover {
+  background-color: skyblue;
+  font-size: 60px;
+}
+
+a:visited {
+  color: blue;
+}
+
+a:hover {
+  background-color: magenta;
+}
+
+h2 {
+  font-family: "Pangolin", cursive;
+  background-color: darkorchid;
+  text-align: center;
+  margin-top: 15px;
+}
+
+.container {
+  width: 80%;
+  margin: 0 auto;
+}
+
+#puppies {
+  background-color: darkorchid;
+  text-align: center;
+}
+
+.picture {
+  float: left;
+  width: 50%;
+  margin-bottom: 15px;
+}
+
+.helpful-info {
+  float: left;
+  width: 40%;
+  margin-left: 20px;
+  line-height: 40px;
+  font-size: 22px;
+  margin-top: 60px;
+}
+
+#beach {
+  clear: left;
+  margin-top: 15px;
+  text-align: center;
+}
+
+#beach-pic {
+  float: right;
+  width: 50%;
+  margin-bottom: 15px;
+}
+
+#beach-info {
+  float: right;
+  width: 40%;
+  line-height: 40px;
+  margin-right: 30px;
+  margin-top: 40px;
+}
+
+#anatomy {
+  clear: right;
+  text-align: center;
+}
+
+#anatomy-pic {
+  float: left;
+  width: 50%;
+  margin-bottom: 15px;
+}
+
+#anatomy-info {
+  float: left;
+  width: 40%;
+  line-height: 40px;
+  margin-left: 30px;
+  margin-top: 40px;
+}
+
+#bachelor {
+  clear: left;
+  text-align: center;
+}
+
+#bachelor-pic {
+  float: right;
+  width: 50%;
+  margin-bottom: 15px;
+}
+
+#bachelor-info {
+  float: right;
+  width: 40%;
+  line-height: 40px;
+  margin-right: 30px;
+  margin-top: 40px;
+}
+
+#cream {
+  clear: right;
+  text-align: center;
+}
+
+#cream-pic {
+  float: left;
+  width: 50%;
+  margin-bottom: 15px;
+}
+
+#cream-info {
+  float: left;
+  width: 40%;
+  line-height: 40px;
+  margin-left: 30px;
+  margin-top: 40px;
+}
+
+#skating {
+  clear: left;
+  text-align: center;
+}
+
+#skating-pic {
+  float: right;
+  width: 50%;
+  margin-bottom: 15px;
+}
+
+#skating-info {
+  float: right;
+  width: 40%;
+  line-height: 40px;
+  margin-right: 30px;
+  margin-top: 40px;
+}
+
+footer {
+  clear: right;
+  text-align: center;
+}
